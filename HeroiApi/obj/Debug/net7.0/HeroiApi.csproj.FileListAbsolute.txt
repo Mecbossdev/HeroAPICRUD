@@ -1,0 +1,7 @@
+/Users/jeffinugostosaodapacatuba/Projects/HeroiApi/HeroiApi/obj/Debug/net7.0/HeroiApi.csproj.AssemblyReference.cache
+/Users/jeffinugostosaodapacatuba/Projects/HeroiApi/HeroiApi/obj/Debug/net7.0/HeroiApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeffinugostosaodapacatuba/Projects/HeroiApi/HeroiApi/obj/Debug/net7.0/HeroiApi.AssemblyInfoInputs.cache
+/Users/jeffinugostosaodapacatuba/Projects/HeroiApi/HeroiApi/obj/Debug/net7.0/HeroiApi.AssemblyInfo.cs
+/Users/jeffinugostosaodapacatuba/Projects/HeroiApi/HeroiApi/obj/Debug/net7.0/HeroiApi.csproj.CoreCompileInputs.cache
+/Users/jeffinugostosaodapacatuba/Projects/HeroiApi/HeroiApi/obj/Debug/net7.0/HeroiApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/jeffinugostosaodapacatuba/Projects/HeroiApi/HeroiApi/obj/Debug/net7.0/HeroiApi.MvcApplicationPartsAssemblyInfo.cache
